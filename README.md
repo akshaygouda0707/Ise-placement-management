@@ -17,3 +17,5 @@ How it works:
 *Enter placed Company details
 *Search for the student
 *print
+
+System.out.println("Java");
