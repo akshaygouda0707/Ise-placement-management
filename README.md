@@ -96,5 +96,3 @@ The Campus Placement Management System simplifies the campus placement process, 
 
 ---
 
-Feel free to customize this README according to your project's specific details and preferences! Let me know if you need further assistance.
-
